@@ -77,7 +77,7 @@ if ($this->countModules('sidebar-left') && $this->countModules('sidebar-right'))
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="#">
-                         <img src="<?php echo $this->baseurl . '/templates/' . $this->template . '/images/aa-logo-200x200-white-130x130.png'?>  title="" style="height: 3.8rem;">
+                         <img src="<?php echo $this->baseurl . '/templates/' . $this->template . "/images/aa-logo-200x200-white-130x130.png";?>"  title="" style="height: 3.8rem;">
                     </a>
                 </span>
                 
